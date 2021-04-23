@@ -3,7 +3,7 @@ Projeto desenvolvido no ano de 2019, foi lançado que no nosso primeiro ano de S
 
 A RoboCup da FIAP
 
-Logo nem 2019, na minha primeira semana de aula me deparei com um
+Em 2019, na minha primeira semana de aula me deparei com um
 desafio, teria que formar um grupo com um mínimo de três pessoas para projetar,
 montar e fazer funcionar um robô telecomandado via bluetooth com um prazo
 relativamente curto.
