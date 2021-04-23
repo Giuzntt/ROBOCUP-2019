@@ -1,0 +1,50 @@
+body{
+    background-color: 	RGB(222,221,221);
+}
+
+.container-menu{
+   background-color: #ffffff;
+}
+
+.largura{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.img_form{
+    text-align: center
+}
+
+.nav-item:hover, .nav-item:active, .nav-item:focus{
+    color: white
+}
+
+iframe{
+    border: 0;
+    width: 90%;
+    height: 300px;
+    padding: 15px;
+}
+
+.visitacao{
+    padding: 15px;
+    font-size: 20px;
+}
+
+.alinhamento{
+    align-self: center;
+}
+.background-5{
+  background-color: RGB(204,202,202);
+}
+.background-6{
+  background-color: RGB(222,221,221);
+}
+.background-4{
+  background-color: RGB(160,156,156);
+}
+textarea{
+  height: 130px;
+    padding-left: 10px;
+    resize: none;
+}
